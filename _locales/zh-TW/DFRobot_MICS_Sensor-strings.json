@@ -1,0 +1,15 @@
+{
+    "dfmics|block":"MEMS 氣體傳感器",
+    "dfmics.setAddr|block":"初始化設備I2C地址為 %addr",
+    "dfmics.warmUp|block":"預熱傳感器",
+    "dfmics.getGasData|block":"讀取傳感器計算後的 %eOption 濃度（PPM）數據",
+    "dfmics.getPowerState|block":"取得狀態",
+    "dfmics.sleepMode|block":"設定狀態為睡眠",
+    "dfmics.wakeUpMode|block":"設定狀態為喚醒",
+    "dfmics.MTYPE.CO|block":"一氧化碳 (CO)",
+    "dfmics.MTYPE.CH4|block":"甲烷 (CH4)",
+    "dfmics.MTYPE.C2H5OH|block":"乙醇 (C2H5OH)",
+    "dfmics.MTYPE.H2|block":"氫 (H2)",
+    "dfmics.MTYPE.NH3|block":"氨 (NH3)",
+    "dfmics.MTYPE.NO2|block":"二氧化氮 (NO2)"
+}
